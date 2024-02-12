@@ -1,0 +1,6 @@
+references/*
+fastq_files/*
+*.fa
+*.gtf
+*.log
+.nextflow
